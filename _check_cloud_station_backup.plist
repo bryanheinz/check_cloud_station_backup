@@ -8,7 +8,7 @@
 	<string>60684E7F-9078-4FC0-A58E-D4D1FE65F7CD</string>
 	<key>ProgramArguments</key>
 	<array>
-		<string>check_cloudstation_backup.plugin</string>
+		<string>_check_cloud_station_backup.plugin</string>
 	</array>
 </dict>
 </plist>
